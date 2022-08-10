@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.palm {
+    background-image: url('../Images/palm.jpg');
+}
+
+.sea {
+    background-image: url('../Images/sea.jpg');
+}
+
+.night {
+    background-image: url('../Images/night.jpg');
+}
+
+.leaves {
+    background-image: url('../Images/leaves.jpg');
+}
